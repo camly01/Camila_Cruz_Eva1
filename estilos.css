@@ -1,0 +1,47 @@
+
+#titulo{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-image: url("C:/Users/camly/Camila_Cruz_Eva1/banner_chile.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+}
+
+
+.intro{
+    background-color: rgb(188, 241, 241);
+    padding: 5%;
+    overflow: auto;
+    text-align: center;
+    font-style: italic;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.texto1{
+    background-color: white;
+    background-image: url("C:/Users/camly/Camila_Cruz_Eva1/planeta.jpg");
+    background-repeat: no-repeat;
+    height: 50px;
+    text-indent: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+    margin-left: 55px;
+    margin-right: 55px;
+}
+
+.texto2{
+    text-indent: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 55px;
+    
+}
